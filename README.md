@@ -2,9 +2,7 @@
 
 Show and tell starter code first, the project is under the starter code. 
 
-```
-
-
+```javaScript
 function setup() {
   createCanvas(400, 400);
 //  x // starting X position
